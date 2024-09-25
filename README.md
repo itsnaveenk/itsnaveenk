@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsnaveenk_" target="blank"><img src="https://img.shields.io/twitter/follow/itsnaveenk_?logo=twitter&style=for-the-badge" alt="itsnaveenk_" /></a> </p>
 
-- 🔭 I’m currently working on **Trip Planner**
+- 🔭 I’m currently working on **Coding Assessment & Courses Platform**
 
 - 🌱 I’m currently learning **MERN**
 
