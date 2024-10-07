@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Coding Assessment & Courses Platform**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Spring Boot & ReactJS**
 
 - 💬 Ask me about **Java, Spring, React, Express.js**
 
