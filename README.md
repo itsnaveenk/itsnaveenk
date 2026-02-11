@@ -1,139 +1,116 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Naveen+Kumar;Backend+Engineer+%7C+Distributed+Systems;Java+%7C+Spring+Boot+%7C+Search+%7C+AI;Building+scalable+systems+at+production+scale&center=true&width=900&height=45&font=Fira+Code&pause=1200">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/itsnaveenk">
-    <img src="https://img.shields.io/github/followers/itsnaveenk?label=GitHub&style=for-the-badge">
-  </a>
-  <a href="https://linkedin.com/in/itsnaveenk">
-    <img src="https://img.shields.io/badge/LinkedIn-itsnaveenk-blue?style=for-the-badge">
-  </a>
-  <a href="mailto:connect.naveenk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-connect.naveenk@gmail.com-red?style=for-the-badge">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Naveen+Kumar.;Backend+Software+Engineer.;I+build+scalable+systems+that+quietly+work." />
+
+<br/>
+
+<img src="https://github.com/itsnaveenk.png" width="120" style="border-radius:50%" />
+
+</div>
 
 ---
 
-## 👋 Overview
+### 🌙 About
 
-I’m a **Backend Software Engineer** focused on building **scalable, high-throughput systems** that operate reliably at **millions-of-users scale**.
+I’m a **Backend Software Engineer** focused on designing **scalable, high-throughput systems**.
 
-My work spans:
-- Distributed backend services
-- Search & recommendation platforms
-- Event-driven and async systems
-- AI-augmented backend pipelines (RAG, hybrid search)
+I work close to the core:
+- APIs that don’t break
+- Search systems that stay fast at scale
+- Infrastructure that fades into the background
 
-I care deeply about **performance, correctness, cost efficiency, and system design** — not just making things work, but making them work *well* in production.
+I enjoy problems where **clarity, performance, and correctness** matter more than buzzwords.
 
----
-
-## 🧠 Core Engineering Focus (2026-oriented)
-
-- **Backend & Platform Engineering**
-  - Designing resilient microservices
-  - API contracts, schema evolution, backward compatibility
-  - Latency, throughput, and failure handling
-
-- **Search & Data Systems**
-  - Elasticsearch (BM25 + Vector + Hybrid)
-  - Index design, ingestion pipelines, ranking quality
-  - Query optimization at scale
-
-- **Async & Event-Driven Architecture**
-  - Kafka, Redis Streams, SQS
-  - Backpressure handling, idempotency, retries
-
-- **AI-Augmented Systems (Infra-first)**
-  - RAG pipelines with guardrails
-  - LLM-based query understanding & reranking
-  - Cost-aware embedding & inference strategies
+Currently working on production systems serving **millions of users**.
 
 ---
 
-## 🚀 Highlighted Work
+### 🧭 What I Care About
 
-### 🏆 CodeArena — Competitive Coding Platform
-**Spring Boot • React • Redis • Docker • Judge0**
-
-- Designed a **production-grade code execution platform**
-- Secure sandboxed execution with Judge0
-- Async submission pipelines using Redis Streams
-- JWT auth, rate limiting, leaderboards
-- Fully dockerized for reproducible deployments
-
-🔗 Repository: https://github.com/itsnaveenk/CodeArena
+- Distributed backend systems  
+- Search & retrieval (keyword + vector + hybrid)  
+- Async pipelines & event-driven architecture  
+- Cost-aware, production-grade AI integrations  
+- Clean abstractions that age well  
 
 ---
 
-### 🔬 AI-Powered Product Search & Recommendation (RAG)
+### ✨ Featured Work
 
-**Spring Boot • Elasticsearch • OpenAI • Hybrid Search**
+#### **CodeArena**
+A full-stack competitive coding platform.
 
-- Built a **hybrid retrieval system** (keyword + vector)
-- Scaled ingestion for **1.5M+ products**
-- LLM-driven query refinement & reranking
-- Strict JSON schemas to prevent hallucinations
-- Embedding reuse via change-detection to reduce cost
-- Context-aware chat history with S3 persistence
+- Secure, sandboxed code execution
+- Async submission pipelines
+- JWT-based auth, rate-limits, leaderboards
+- Dockerized, production-ready setup
 
-This project mirrors **real-world e-commerce search infra**, not demo-grade AI.
+**Stack:** Spring Boot · React · Redis · Docker  
+🔗 https://github.com/itsnaveenk/CodeArena
 
 ---
 
-## 🛠️ Technology Stack
+#### **AI-Powered Product Search (RAG)**
+A production-grade search & recommendation system.
 
-### Languages
-- Java, Python, SQL
+- Hybrid retrieval (BM25 + vector search)
+- LLM-driven query understanding & reranking
+- Strict grounding & hallucination safeguards
+- Cost-optimized embeddings pipeline
+- Context-aware conversational search
 
-### Backend & APIs
-- Spring Boot, Spring Security
-- REST APIs, Microservices
-- FastAPI
+**Stack:** Spring Boot · Elasticsearch · OpenAI · AWS
 
-### Databases & Search
-- MySQL, MongoDB
-- Redis
+---
+
+### 🛠️ Tools I Use
+
+**Backend**
+- Java, Spring Boot, Spring Security, Hibernate, JPA
+- REST APIs, Microservices, FastAPI
+
+**Data & Search**
+- MySQL, MongoDB, Redis
 - Elasticsearch, Vector Databases
 
-### Messaging & Data
-- Apache Kafka
-- Redis Streams
-- Logstash, Kibana
-
-### Cloud & DevOps
+**Async & Infra**
+- Apache Kafka, Redis Streams
 - AWS (EC2, S3, CloudFront, SQS, Lambda)
 - Docker, CI/CD
-- Git
 
-### AI & Search Infra
-- OpenAI API
-- Embeddings, RAG
-- Semantic & Hybrid Search
+**AI**
+- OpenAI API, Embeddings
+- RAG, Semantic & Hybrid Search
 
 ---
 
-## 📊 GitHub Activity
+### 📊 Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsnaveenk&show_icons=true&theme=react&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnaveenk&layout=compact&theme=react&hide_border=true" height="165">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsnaveenk&theme=react&hide_border=true">
-</p>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=itsnaveenk&show_icons=true&theme=tokyonight&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnaveenk&layout=compact&theme=tokyonight" />
 
----
+<br/>
 
-## 📫 Contact
+<img src="https://streak-stats.demolab.com?user=itsnaveenk&theme=tokyonight&hide_border=true" />
 
-- LinkedIn → https://linkedin.com/in/itsnaveenk  
-- GitHub → https://github.com/itsnaveenk  
-- Email → connect.naveenk@gmail.com  
+</div>
 
 ---
 
-⭐ I enjoy working on backend systems where **scale, performance, and correctness actually matter**.
+### 📫 Reach Me
+
+- GitHub: https://github.com/itsnaveenk  
+- LinkedIn: https://linkedin.com/in/itsnaveenk  
+- Email: connect.naveenk@gmail.com  
+
+---
+
+<div align="center">
+
+<sub>
+“Strong systems don’t announce themselves. They just keep working.”
+</sub>
+
+</div>
