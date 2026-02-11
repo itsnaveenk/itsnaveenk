@@ -1,90 +1,139 @@
-<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Naveen+Kumar;Backend+Engineer+%7C+Distributed+Systems;Java+%7C+Spring+Boot+%7C+Search+%7C+AI;Building+scalable+systems+at+production+scale&center=true&width=900&height=45&font=Fira+Code&pause=1200">
+</p>
+
 <p align="center">
   <a href="https://github.com/itsnaveenk">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Naveen+👋;Full+Stack+Developer;Spring+Boot+%2B+React+Engineer;Building+Scalable+Web+Platforms" alt="Typing SVG" />
+    <img src="https://img.shields.io/github/followers/itsnaveenk?label=GitHub&style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/itsnaveenk">
+    <img src="https://img.shields.io/badge/LinkedIn-itsnaveenk-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:connect.naveenk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-connect.naveenk@gmail.com-red?style=for-the-badge">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Overview
 
-I'm a **Full-Stack Software Engineer** specializing in **Java, Spring Boot, and React**.  
-I enjoy designing **scalable backend systems**, building **clean APIs**, and crafting **modern frontends**.
+I’m a **Backend Software Engineer** focused on building **scalable, high-throughput systems** that operate reliably at **millions-of-users scale**.
 
-- 💡 Focused on **real-world system design**
-- 🚀 Interested in **distributed systems & async processing**
-- 🛠️ Strong backend + frontend ownership mindset
-- 🎯 Goal: build high-impact, production-grade software
+My work spans:
+- Distributed backend services
+- Search & recommendation platforms
+- Event-driven and async systems
+- AI-augmented backend pipelines (RAG, hybrid search)
 
----
-
-## 🧰 Tech Stack
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-
-### Databases & Infra
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+I care deeply about **performance, correctness, cost efficiency, and system design** — not just making things work, but making them work *well* in production.
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Core Engineering Focus (2026-oriented)
 
-### 🏆 CodeArena
-**Full-stack competitive coding platform**
+- **Backend & Platform Engineering**
+  - Designing resilient microservices
+  - API contracts, schema evolution, backward compatibility
+  - Latency, throughput, and failure handling
 
-- Spring Boot backend with async processing
-- Redis streams for task queues
-- Secure code execution (Judge0)
-- React + TypeScript frontend
-- Dockerized setup
+- **Search & Data Systems**
+  - Elasticsearch (BM25 + Vector + Hybrid)
+  - Index design, ingestion pipelines, ranking quality
+  - Query optimization at scale
 
-🔗 Repo: https://github.com/itsnaveenk/CodeArena
+- **Async & Event-Driven Architecture**
+  - Kafka, Redis Streams, SQS
+  - Backpressure handling, idempotency, retries
+
+- **AI-Augmented Systems (Infra-first)**
+  - RAG pipelines with guardrails
+  - LLM-based query understanding & reranking
+  - Cost-aware embedding & inference strategies
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 🚀 Highlighted Work
+
+### 🏆 CodeArena — Competitive Coding Platform
+**Spring Boot • React • Redis • Docker • Judge0**
+
+- Designed a **production-grade code execution platform**
+- Secure sandboxed execution with Judge0
+- Async submission pipelines using Redis Streams
+- JWT auth, rate limiting, leaderboards
+- Fully dockerized for reproducible deployments
+
+🔗 Repository: https://github.com/itsnaveenk/CodeArena
+
+---
+
+### 🔬 AI-Powered Product Search & Recommendation (RAG)
+
+**Spring Boot • Elasticsearch • OpenAI • Hybrid Search**
+
+- Built a **hybrid retrieval system** (keyword + vector)
+- Scaled ingestion for **1.5M+ products**
+- LLM-driven query refinement & reranking
+- Strict JSON schemas to prevent hallucinations
+- Embedding reuse via change-detection to reduce cost
+- Context-aware chat history with S3 persistence
+
+This project mirrors **real-world e-commerce search infra**, not demo-grade AI.
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages
+- Java, Python, SQL
+
+### Backend & APIs
+- Spring Boot, Spring Security
+- REST APIs, Microservices
+- FastAPI
+
+### Databases & Search
+- MySQL, MongoDB
+- Redis
+- Elasticsearch, Vector Databases
+
+### Messaging & Data
+- Apache Kafka
+- Redis Streams
+- Logstash, Kibana
+
+### Cloud & DevOps
+- AWS (EC2, S3, CloudFront, SQS, Lambda)
+- Docker, CI/CD
+- Git
+
+### AI & Search Infra
+- OpenAI API
+- Embeddings, RAG
+- Semantic & Hybrid Search
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsnaveenk&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnaveenk&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsnaveenk&show_icons=true&theme=react&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnaveenk&layout=compact&theme=react&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itsnaveenk&theme=react&hide_border=true">
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 📫 Contact
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsnaveenk&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/itsnaveenk/">
-    <img src="https://img.shields.io/badge/LinkedIn-Naveen-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+- LinkedIn → https://linkedin.com/in/itsnaveenk  
+- GitHub → https://github.com/itsnaveenk  
+- Email → connect.naveenk@gmail.com  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsnaveenk&style=flat-square&color=blue" />
-</p>
+⭐ I enjoy working on backend systems where **scale, performance, and correctness actually matter**.
