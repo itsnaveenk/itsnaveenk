@@ -38,7 +38,6 @@
 ## 🚀 Featured Projects
 
 ### 1) CodeArena — Competitive coding platform (Full-stack)
-![CodeArena screenshot](./assets/codearena-screenshot.png)
 
 **Why it matters:** Built as a production-style judge platform with real async execution, Redis Streams for queues, secure sandboxing, leaderboards and contest orchestration.  
 **Stack:** React (Vite, TS) • Spring Boot • PostgreSQL • MongoDB • Redis Streams • Docker • Judge0 • Kafka  
