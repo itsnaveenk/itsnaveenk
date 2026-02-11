@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Typing animation header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=36&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=760&lines=hi!+i'm+naveen+kumar;backend+engineer+%7C+java+%E2%9D%A4%EF%B8%8F+spring+boot+%7C+react" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=18&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=760&lines=hi!+i'm+naveen+kumar;backend+engineer+%7C+java+%E2%9D%A4%EF%B8%8F+spring+boot+%7C+react" alt="typing" />
 </p>
 
 <p align="center">
