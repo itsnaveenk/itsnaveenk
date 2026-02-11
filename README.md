@@ -1,116 +1,117 @@
+<!-- 🌸 Anime-inspired GitHub Profile README for Naveen Kumar -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Naveen+Kumar.;Backend+Software+Engineer.;I+build+scalable+systems+that+quietly+work." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Naveen%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<br/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Distributed+Systems;Building+Scalable+Search+%26+AI-powered+Backends;Production+Engineering+Mindset" />
+</p>
 
-<img src="https://github.com/itsnaveenk.png" width="120" style="border-radius:50%" />
+<img src="https://i.imgur.com/6Z6lH2S.gif" width="280" alt="anime coding aesthetic" />
 
 </div>
 
 ---
 
-### 🌙 About
+## 🌌 About Me
 
-I’m a **Backend Software Engineer** focused on designing **scalable, high-throughput systems**.
+Backend Software Engineer with **1+ years of production experience** building **scalable microservices, search platforms, and high-throughput backend systems**.
 
-I work close to the core:
-- APIs that don’t break
-- Search systems that stay fast at scale
-- Infrastructure that fades into the background
+I enjoy working close to **system boundaries** — performance, scalability, data pipelines, and reliability.  
+Most of my work focuses on **real users, real traffic, and real constraints**.
 
-I enjoy problems where **clarity, performance, and correctness** matter more than buzzwords.
-
-Currently working on production systems serving **millions of users**.
-
----
-
-### 🧭 What I Care About
-
-- Distributed backend systems  
-- Search & retrieval (keyword + vector + hybrid)  
-- Async pipelines & event-driven architecture  
-- Cost-aware, production-grade AI integrations  
-- Clean abstractions that age well  
+- 🏢 **SDE-1 @ Adda247**
+- 🚀 Built systems serving **5M+ users**
+- 🔍 Designed search APIs handling **600K+ weekly queries**
+- ⚡ Reduced latency by **30–40%** using caching & indexing
+- 🧠 Strong interest in **Search, Distributed Systems & AI-backed products**
 
 ---
 
-### ✨ Featured Work
+## ⚔️ Tech Arsenal
 
-#### **CodeArena**
-A full-stack competitive coding platform.
+### 🧩 Backend & Core
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot)
+![Microservices](https://img.shields.io/badge/Microservices-0D1117?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge)
 
-- Secure, sandboxed code execution
-- Async submission pipelines
-- JWT-based auth, rate-limits, leaderboards
-- Dockerized, production-ready setup
+### 🗄️ Databases & Search
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0D1117?style=for-the-badge&logo=elasticsearch)
 
-**Stack:** Spring Boot · React · Redis · Docker  
-🔗 https://github.com/itsnaveenk/CodeArena
+### ☁️ Infra & Messaging
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws)
+![Kafka](https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
+![Logstash](https://img.shields.io/badge/Logstash-0D1117?style=for-the-badge)
+
+### 🤖 AI & Search Systems
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-0D1117?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-0D1117?style=for-the-badge)
 
 ---
 
-#### **AI-Powered Product Search (RAG)**
-A production-grade search & recommendation system.
+## 🏯 Featured Project
 
-- Hybrid retrieval (BM25 + vector search)
-- LLM-driven query understanding & reranking
-- Strict grounding & hallucination safeguards
+### 🚀 CodeArena — Full-Stack Coding Platform
+> Competitive programming platform inspired by real-world judge systems
+
+- Secure sandboxed code execution
+- Async pipelines with Redis Streams
+- Spring Boot backend + React frontend
+- JWT authentication & rate limiting
+- Dockerized deployment
+
+👉 **Repository:** https://github.com/itsnaveenk/CodeArena
+
+---
+
+### 🔍 AI-Powered Product Search (RAG)
+> Production-grade search & recommendation system
+
+- Hybrid retrieval: **BM25 + Vector KNN**
+- LLM-based query refinement & reranking
+- Handles **1.5M+ products**
 - Cost-optimized embeddings pipeline
-- Context-aware conversational search
-
-**Stack:** Spring Boot · Elasticsearch · OpenAI · AWS
+- Context-aware multi-turn search
 
 ---
 
-### 🛠️ Tools I Use
-
-**Backend**
-- Java, Spring Boot, Spring Security, Hibernate, JPA
-- REST APIs, Microservices, FastAPI
-
-**Data & Search**
-- MySQL, MongoDB, Redis
-- Elasticsearch, Vector Databases
-
-**Async & Infra**
-- Apache Kafka, Redis Streams
-- AWS (EC2, S3, CloudFront, SQS, Lambda)
-- Docker, CI/CD
-
-**AI**
-- OpenAI API, Embeddings
-- RAG, Semantic & Hybrid Search
-
----
-
-### 📊 Activity
+## 📊 GitHub Stats (Animated)
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=itsnaveenk&show_icons=true&theme=tokyonight&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnaveenk&layout=compact&theme=tokyonight" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=itsnaveenk&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsnaveenk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=itsnaveenk&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-### 📫 Reach Me
+## 🌸 Connect With Me
 
-- GitHub: https://github.com/itsnaveenk  
-- LinkedIn: https://linkedin.com/in/itsnaveenk  
-- Email: connect.naveenk@gmail.com  
+<p align="center">
+  <a href="https://github.com/itsnaveenk">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/itsnaveenk">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:connect.naveenk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-<sub>
-“Strong systems don’t announce themselves. They just keep working.”
-</sub>
+🌌 *“I build systems that survive scale, traffic, and reality.”*
 
 </div>
