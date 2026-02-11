@@ -13,7 +13,7 @@
   <img src="./assets/anime-banner.gif" alt="anime banner" style="max-width:100%; border-radius:12px; box-shadow: 0 8px 24px rgba(124,58,237,0.18)"/>
 </p>
 
-<h3 align="center">⚡️ Full-Stack Backend Engineer · building scalable systems, hybrid search & async pipelines</h3>
+<h3 align="center">⚡️ Software Development Engineer · building scalable systems, hybrid search & async pipelines</h3>
 
 <p align="center">
   <!-- Social / quick badges -->
