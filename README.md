@@ -1,92 +1,86 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=SYSTEM.BOOT_SEQUENCE_INITIATED...;PILOT:+NAVEEN+KUMAR;CLASS:+BACKEND+ENGINEER;SPECIALTY:+DISTRIBUTED+SYSTEMS+%2F+AI+SEARCH" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1..." alt="Cyberpunk Banner" width="100%" style="border-radius: 10px; border: 2px solid #00FF99; box-shadow: 0 0 20px #00FF99;" />
-</div>
-
-<br />
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GITHUB-NET_ACCESS-181717?style=for-the-badge&logo=github&logoColor=00FF99&color=0d1117)](https://github.com/itsnaveenk)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-UPLINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5)](https://linkedin.com/in/itsnaveenk)
-  [![Email](https://img.shields.io/badge/MAIL-TRANSMIT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=c71610)](mailto:connect.naveenk@gmail.com)
-  
-</div>
+# Naveen Kumar
+### Backend Engineer | Distributed Systems & AI-Native Search
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/itsnaveenk)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:connect.naveenk@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-Elevencoder.com-10B981?style=for-the-badge&logo=firefox)](https://elevencoder.com)
 
 ---
 
-### 🧠 // PILOT_PROFILE: [NAVEEN KUMAR]
-> **"Build systems that scale. Ship things that matter."**
+## 🚀 Engineering Philosophy
+I build **fault-tolerant, high-throughput backend systems**. My expertise lies in architecting microservices that scale, optimizing database performance for millions of records, and integrating Large Language Models (LLMs) into production workflows with strict latency SLAs.
 
-[cite_start]I am a **Backend Software Engineer** specializing in **Java & Spring Boot** with over **1+ years of field experience**[cite: 8]. [cite_start]My core directive is designing high-throughput services on AWS and processing large-scale data with Elasticsearch[cite: 9]. [cite_start]I have successfully deployed product-facing features serving **2M+ monthly users**[cite: 10].
-
-* [cite_start]**Current Status:** SDE 1 @ **Adda247** [cite: 12, 13]
-* [cite_start]**Base of Operations:** Gurugram, India [cite: 14]
-* [cite_start]**System Proficiency:** Scalable Microservices, Event-Driven Architecture, RAG Systems [cite: 8, 37]
+**Current Focus:** Java Concurrency, Event-Driven Architectures (Kafka), and Vector Search Optimization.
 
 ---
 
-### 🛠️ // WEAPON_ARSENAL [TECH STACK]
+## ⚡ High-Impact Engineering (Production Metrics)
 
-| **Core Protocols** | **Backend Infrastructure** | **Data & Memory** | **AI & Neural Nets** |
-| :--- | :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Microservices](https://img.shields.io/badge/Microservices-black?style=flat&logo=serverless&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![RAG](https://img.shields.io/badge/RAG_Architecture-FF4F8B?style=flat) |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Vector DBs](https://img.shields.io/badge/Vector_DBs-000000?style=flat&logo=moleculer&logoColor=white) |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white) | ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-00FF99?style=flat) |
-
----
-
-### 📂 // MISSION_LOG [EXPERIENCE]
-
-#### **🔹 SDE 1 | Adda247**
-[cite_start]*Oct 2024 - Present* [cite: 13, 14]
-
-> [cite_start]*Objective: Scale backend infrastructure for 5M+ users.* [cite: 19]
-
-* [cite_start]**Global Search Override:** Engineered a centralized GlobalSearch API using **Elasticsearch**, processing **600K+ weekly queries** and reducing search latency by **40%**[cite: 17].
-* [cite_start]**Shorts Application Deployment:** Designed core components for a Reels-style video feed, including video CDN APIs that boosted user engagement[cite: 15].
-* [cite_start]**System Optimization:** Implemented Redis caching to reduce load times by **30%** and refined database schemas to improve query performance by **40%**[cite: 20].
-* [cite_start]**Real-Time Event Stream:** Integrated **Apache Kafka** to process millions of in-app events daily for real-time service communication[cite: 18].
-* [cite_start]**Secure Access:** Revamped Authentication Service to support multi-tenancy, AES encryption, and 2-device session limits[cite: 21, 22].
+| Metric | Context | Impact |
+| :--- | :--- | :--- |
+| **2M+ Users** | Shorts/Video Platform | [cite_start]Served high-concurrency traffic for a Reels-style application [cite: 10, 15] |
+| **600K+ Queries/Wk** | Global Search API | [cite_start]Reduced latency by **40%** via Elasticsearch optimization [cite: 17] |
+| **1.5M+ Vectors** | Hybrid Search Engine | [cite_start]Orchestrated ingestion pipelines for large-scale e-commerce data [cite: 41] |
+| **~80% Time Saved** | Internal Tooling | [cite_start]Automated reporting & license generation workflows [cite: 25] |
 
 ---
 
-### 💾 // DEPLOYED_CONSTRUCTS [PROJECTS]
+## 🛠 Tech Stack
 
-#### **PROJECT_01: AI-Powered Product Search & Recommendation (RAG)**
-[cite_start]*Tech: Spring Boot, Elasticsearch, OpenAI, Hybrid Search* [cite: 38]
+**Core Infrastructure**
+* **Languages:** Java (Core/Advanced), Python, SQL
+* **Frameworks:** Spring Boot (MVC, Security, Data), FastAPI
+* **Databases:** PostgreSQL, MongoDB, Redis (Caching & Pub/Sub), Elasticsearch
+* **Messaging:** Apache Kafka, Redis Streams
 
-> [cite_start]*A production-grade neural search system for large-scale e-commerce catalogs.* [cite: 40]
+**DevOps & Cloud**
+* **AWS:** EC2, S3, CloudFront, Lambda, SQS
+* **Tooling:** Docker, Kubernetes (Basic), CI/CD (GitHub Actions), Prometheus/Grafana
 
-* [cite_start]**Hybrid Retrieval Matrix:** Built a scalable pipeline combining **BM25 keyword search** and **KNN vector search** in Elasticsearch, supporting **1.5M+ products**[cite: 41].
-* [cite_start]**Neural Reranking:** Implemented LLM-driven query refinement and reranking to extract structured filters and handle vague queries[cite: 42, 43].
-* [cite_start]**Cost Optimization Protocol:** Designed a change-detection system during ingestion to avoid re-embedding unchanged products, significantly reducing API spend[cite: 44].
-* [cite_start]**Hallucination Safeguards:** Enforced strict JSON schemas for LLM responses to ensure production reliability[cite: 43].
-
-#### **PROJECT_02: CodeArena - Competitive Coding Platform**
-*Tech: React, Spring Boot, Kafka, Redis Streams*
-
-> *A high-performance judge platform with async execution.*
-
-* **Async Execution:** Orchestrated code execution pipelines using Redis Streams and Docker sandboxes.
-* **Live Metrics:** Real-time leaderboard updates via Kafka.
+**AI & Information Retrieval**
+* **Search:** Hybrid Retrieval (BM25 + kNN), RAG Pipelines, Vector Embeddings
+* **LLMs:** OpenAI API, LangChain concepts, Prompt Engineering Guardrails
 
 ---
 
-### 📊 // SYSTEM_METRICS
+## 📂 Featured Case Studies
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsnaveenk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9" alt="Naveen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnaveenk&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=c9d1d9" alt="Top Languages" />
-</div>
+### 1. Enterprise-Grade Hybrid Search & RAG System
+**Architecture:** Spring Boot • Elasticsearch • OpenAI • Redis
+
+Designed a production-ready search engine to solve the "zero-result" problem in e-commerce.
+* **Challenge:** Standard keyword search failed on vague user queries (e.g., "gifts for summer"), leading to drop-offs.
+* **Solution:** Implemented a **Hybrid Search Strategy** combining BM25 (lexical) and kNN (semantic) scores. Built a "Change-Detection" ingestion pipeline to prevent re-embedding unchanged data.
+* [cite_start]**Key Engineering Win:** Optimized token usage and API costs by **caching embeddings** and strictly formatting LLM outputs to JSON[cite: 43, 44].
+
+### 2. High-Concurrency Video Feed Architecture
+**Architecture:** Microservices • Kafka • CDN • MySQL
+
+Engineered the backend for a high-traffic "Shorts" video platform.
+* **Challenge:** serving video metadata and user interaction states (likes, follows) with sub-100ms latency under load.
+* **Solution:**
+    * [cite_start]Decoupled write-heavy operations (analytics, notifications) using **Apache Kafka**[cite: 18].
+    * [cite_start]Implemented **Read-Through/Write-Behind caching** with Redis to protect the primary DB[cite: 20].
+    * [cite_start]Integrated **UPI AutoPay** for recurring subscription monetization[cite: 16].
+
+### 3. CodeArena - Distributed Code Execution Platform
+**Architecture:** React • Spring Boot • Docker • Redis Streams
+
+A competitive programming platform capable of executing untrusted user code securely.
+* **Sandboxing:** Utilized ephemeral Docker containers to isolate user code execution.
+* **Async Processing:** Managed submission queues via Redis Streams to handle burst traffic during contests.
+
+---
+
+## 💼 Professional Experience
+
+**SDE 1 (Java Developer) | Adda247**
+*Oct 2024 – Present*
+* [cite_start]Architected the **GlobalSearch API**, unifying search across eBooks, Videos, and Quizzes, serving **600K+ queries/week**[cite: 17].
+* [cite_start]Migrated 700K+ legacy records to Elasticsearch using Logstash ETL pipelines with near real-time synchronization[cite: 23].
+* [cite_start]Reduced API error rates by implementing comprehensive unit testing and logging via Kibana[cite: 26].
 
 ---
 
 <div align="center">
-  <p><i>// END OF TRANSMISSION //</i></p>
-  <p>System offline. Please reconnect via <a href="https://linkedin.com/in/itsnaveenk">Uplink</a>.</p>
+  <sub><em>"Talk is cheap. Show me the code." — Linus Torvalds</em></sub>
 </div>
