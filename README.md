@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/uVzjSj4d5uYhY53T5j/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExendwNDkwZ2NuOGs4bnpreW5wODJzdDA5ZGxmZmQ5bDl2M3lwbnppMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA7rLtaJDIWEzU57CT/giphy.gif)" alt="Cyberpunk Banner" width="100%" style="border-radius: 10px; border: 2px solid #20E055; box-shadow: 0 0 20px #20E055;" />
+  <img src="https://media.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif" alt="Cyberpunk Banner" width="100%" style="border-radius: 10px; border: 2px solid #20E055; box-shadow: 0 0 20px #20E055;" />
 </div>
 
 <br />
@@ -23,9 +23,9 @@
 
 [cite_start]I am a **Backend Software Engineer** specializing in **Java & Spring Boot** with over **1+ years of field experience**[cite: 8]. [cite_start]My core directive is designing high-throughput services on AWS and processing large-scale data with Elasticsearch[cite: 9]. [cite_start]I have successfully deployed product-facing features serving **2M+ monthly users**[cite: 10].
 
-* [cite_start]**Current Status:** SDE 1 @ **Adda247** [cite: 13]
+* [cite_start]**Current Status:** SDE 1 @ **Adda247** [cite: 12, 13]
 * [cite_start]**Base of Operations:** Gurugram, India [cite: 14]
-* [cite_start]**System Proficiency:** Scalable Microservices, Event-Driven Architecture, RAG Systems [cite: 8, 37]
+* [cite_start]**System Proficiency:** Scalable Microservices, Event-Driven Architecture, RAG Systems [cite: 8, 38]
 
 ---
 
@@ -42,8 +42,8 @@
 
 ### 📂 // MISSION_LOG [EXPERIENCE]
 
-#### **🔹 SDE 1 | [cite_start]Adda247** [cite: 12, 13]
-*Oct 2024 - Present*
+#### **🔹 SDE 1 | Adda247**
+[cite_start]*Oct 2024 - Present* [cite: 14]
 
 > [cite_start]*Objective: Scale backend infrastructure for 5M+ users.* [cite: 19]
 
@@ -57,13 +57,13 @@
 
 ### 💾 // DEPLOYED_CONSTRUCTS [PROJECTS]
 
-#### [cite_start]**PROJECT_01: AI-Powered Product Search & Recommendation (RAG)** [cite: 37]
-*Tech: Spring Boot, Elasticsearch, OpenAI, Hybrid Search*
+#### **PROJECT_01: AI-Powered Product Search & Recommendation (RAG)**
+[cite_start]*Tech: Spring Boot, Elasticsearch, OpenAI, Hybrid Search* [cite: 37, 38]
 
 > [cite_start]*A production-grade neural search system for large-scale e-commerce catalogs.* [cite: 40]
 
 * [cite_start]**Hybrid Retrieval Matrix:** Built a scalable pipeline combining **BM25 keyword search** and **KNN vector search** in Elasticsearch, supporting **1.5M+ products**[cite: 41].
-* [cite_start]**Neural Reranking:** Implemented LLM-driven query refinement and reranking to extract structured filters and handle vague queries[cite: 42, 43].
+* [cite_start]**Neural Reranking:** Implemented LLM-driven query refinement and reranking to extract structured filters and handle vague queries[cite: 42].
 * [cite_start]**Cost Optimization Protocol:** Designed a change-detection system during ingestion to avoid re-embedding unchanged products, significantly reducing API spend[cite: 44].
 * [cite_start]**Hallucination Safeguards:** Enforced strict JSON schemas for LLM responses to ensure production reliability[cite: 43].
 
