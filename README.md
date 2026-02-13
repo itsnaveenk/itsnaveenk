@@ -104,18 +104,3 @@
 - **LinkedIn:** https://linkedin.com/in/itsnaveenk
 
 ---
-
-## 🎨 Make it shine — quick setup checklist
-1. Add an **anime banner GIF** at `/assets/anime-banner.gif` (recommended size: 1200×300, looped, subtle motion).  
-2. Add a project screenshot for CodeArena at `/assets/codearena-screenshot.png`.  
-3. Paste this `README.md` into your profile repo (`itsnaveenk/itsnaveenk`).  
-4. Pin these repos to your profile: `CodeArena`, `your-rag-repo`, `other-polished-project`.  
-5. (Optional) Replace GitHub stats theme or add visitor counter badges.
-
----
-
-## 🎯 Want me to:
-- Resize/generate a custom anime banner GIF for you? (I can provide a production-ready banner + 1 mobile variant.)  
-- Auto-generate a cleaned README for CodeArena specifically (detailed README, architecture diagram, badges)?
-
-If yes — tell me which option and I’ll generate the exact assets/markdown next.
