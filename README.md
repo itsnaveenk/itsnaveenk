@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/uVzjSj4d5uYhY53T5j/giphy.gif" alt="Cyberpunk Banner" width="100%" style="border-radius: 10px; border: 2px solid #20E055; box-shadow: 0 0 20px #20E055;" />
+  <img src="[https://media.giphy.com/media/uVzjSj4d5uYhY53T5j/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExendwNDkwZ2NuOGs4bnpreW5wODJzdDA5ZGxmZmQ5bDl2M3lwbnppMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA7rLtaJDIWEzU57CT/giphy.gif)" alt="Cyberpunk Banner" width="100%" style="border-radius: 10px; border: 2px solid #20E055; box-shadow: 0 0 20px #20E055;" />
 </div>
 
 <br />
