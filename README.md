@@ -4,6 +4,10 @@
 
 ![Tech Banner](https://i.giphy.com/fA7rLtaJDIWEzU57CT.gif)
 
+<p align="center">
+  <img src="https://i.giphy.com/fA7rLtaJDIWEzU57CT.gif" />
+</p>
+
 <br />
 
 <div align="center">
