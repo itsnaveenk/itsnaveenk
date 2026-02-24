@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=%3E_ INITIALIZING+PROFILE...;%3E_ LOAD+MODULE:+BACKEND+ENGINEERING;%3E_ SYSTEM:+JAVA+%7C+SPRING+BOOT+%7C+ELASTICSEARCH;%3E_ STATUS:+SCALING+SYSTEMS+TO+5M%2B+USERS" alt="Typing SVG" />
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=%3E_ INITIALIZING+PROFILE...;%3E_ LOAD+MODULE:+BACKEND+ENGINEERING;%3E_ SYSTEM:+JAVA+%7C+SPRING+BOOT+%7C+ELASTICSEARCH;%3E_ STATUS:+SCALING+SYSTEMS+TO+5M%2B+USERS)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif" alt="Tech Banner" width="100%" style="border-radius: 4px; border: 2px solid #2196F3;" />
-</div>
+![Tech Banner](https://media.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif)
 
 <br />
 
