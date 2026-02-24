@@ -1,6 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=%3E_ INITIALIZING+PROFILE...;%3E_ LOAD+MODULE:+BACKEND+ENGINEERING;%3E_ SYSTEM:+JAVA+%7C+SPRING+BOOT+%7C+ELASTICSEARCH;%3E_ STATUS:+SCALING+SYSTEMS+TO+5M%2B+USERS)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=%3E_INITIALIZING+PROFILE...;%3E_LOAD+MODULE:+BACKEND+ENGINEERING;%3E_SYSTEM:+JAVA+%7C+SPRING+BOOT+%7C+ELASTICSEARCH;%3E_STATUS:+SCALING+SYSTEMS+TO+5M%2B+USERS" />
+</p>
 
-![Tech Banner](https://media.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif)
+![Tech Banner](https://i.giphy.com/fA7rLtaJDIWEzU57CT.gif)
 
 <br />
 
