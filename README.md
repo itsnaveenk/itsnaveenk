@@ -5,7 +5,7 @@
 ![Tech Banner](https://i.giphy.com/fA7rLtaJDIWEzU57CT.gif)
 
 <p align="center">
-  <img src="<img width="720" height="404" alt="image" src="https://github.com/user-attachments/assets/2dc7e63b-5f0e-4f3a-ad09-d7c8f6924597" /> />
+  <img width="720" height="404" alt="image" src="https://github.com/user-attachments/assets/2dc7e63b-5f0e-4f3a-ad09-d7c8f6924597" />
 </p>
 
 <br />
