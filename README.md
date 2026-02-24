@@ -2,10 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=%3E_INITIALIZING+PROFILE...;%3E_LOAD+MODULE:+BACKEND+ENGINEERING;%3E_SYSTEM:+JAVA+%7C+SPRING+BOOT+%7C+ELASTICSEARCH;%3E_STATUS:+SCALING+SYSTEMS+TO+5M%2B+USERS" />
 </p>
 
-![Tech Banner](https://i.giphy.com/fA7rLtaJDIWEzU57CT.gif)
-
 <p align="center">
-  <img width="720" height="404" alt="image" src="https://github.com/user-attachments/assets/2dc7e63b-5f0e-4f3a-ad09-d7c8f6924597" />
+  <img src="giphy.gif" width="100%" />
 </p>
 
 <br />
