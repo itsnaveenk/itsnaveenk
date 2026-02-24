@@ -3,7 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="giphy.gif" width="670" />
+  <img 
+    src="giphy.gif" 
+    width="600" 
+    alt="Tech Banner"
+    style="border-radius: 10px; border: 1px solid #2196F3;"
+  />
 </p>
 
 <br />
