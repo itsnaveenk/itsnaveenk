@@ -82,10 +82,13 @@ I am a **Backend Software Engineer** specializing in **Distributed Systems** and
 ### █▓▒░ **GITHUB ANALYTICS**
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
+  <a>
     <img src="https://streak-stats.demolab.com?user=itsnaveenk&theme=highcontrast&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
   </a>
 </div>
+
+
+<a href="https://github.com/itsnaveenk"><img src="https://streak-stats.demolab.com?user=itsnaveenk&theme=highcontrast&mode=weekly" alt="GitHub Streak" /></a>
 
 <br />
 
