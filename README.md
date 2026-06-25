@@ -90,7 +90,7 @@ I am a **Backend Software Engineer** specializing in **Distributed Systems** and
 <br />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Footer Animation" width="50%" style="border-radius: 4px;" />
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Footer Animation" width="25%" style="border-radius: 4px;" />
 </div>
 
 ---
